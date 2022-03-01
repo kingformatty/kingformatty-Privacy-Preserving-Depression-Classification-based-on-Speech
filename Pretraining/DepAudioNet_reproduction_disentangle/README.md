@@ -60,3 +60,4 @@ Argument for MMI:
 - `lr_MI` - Learning rate for sub-module training
 - `iter_MI` - number of iteration in each IDL training iteration
 - `lambda_MI` - scaling factor of MMI loss
+- `SPK_EMB_DIR` - speaker embedding folder path
