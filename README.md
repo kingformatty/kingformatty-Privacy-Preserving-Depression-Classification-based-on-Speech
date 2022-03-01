@@ -35,3 +35,6 @@ Speaker related experiment directory
 
 ### [librispeech preparation](librispeech_prepration_scripts)
 Librispeech preparation scripts for pretraining usecase.
+
+### [data preparation/feature extraction](depression_prep)
+Feature extraction pipeline with augmentation options(signal level, feature level doesn't need to be extracted)
