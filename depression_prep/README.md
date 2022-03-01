@@ -75,4 +75,5 @@ workspace, and dataset directories etc. The main variables of interest are
 To run the framework, go to the daic_woz_process directory and run:
  `python -m run`
  
-
+Additional Argument in config.py
+- `Augmentation`: signal level augmentation techniques
