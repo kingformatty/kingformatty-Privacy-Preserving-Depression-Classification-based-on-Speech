@@ -11,4 +11,4 @@ Please modify the path in the code accordingly to meet your requirement.
 
 ## Spk Classification
 
-`spk_classification.py` will run a simply SVM classification task based on embedding generated in previous steps. Please change path of feature file accordingly. 
+`spk_classification.py` will run a simple SVM classification task based on embedding generated in previous steps. Please change path of feature file accordingly. 
