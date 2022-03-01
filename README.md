@@ -14,4 +14,18 @@ Please setup your environment first following the guideline.
 ## Dataset
 For this experiments, DAIC-WOZ dataset is used which can be otrained through The University of Southern California (http://dcapswoz.ict.usc.edu) by signing a license agreement. The dataset is roughly 135GB. There are several errors when collecting and preparing the dataset, so please use the provided repo for pre-processing. 
 
-## 
+For pretraining, Librispeech (360 hours) is used, this corpus can be obtained through openslr https://www.openslr.org/12/  
+
+## Folder Structure
+
+### [Classification/DepAudioNet_reproduction](Classification/DepAudioNet_reproduction)  
+
+Baseline and Experiments with resumed pretrained model can be run under this repository.  
+
+
+
+### [Pretraining/DepAudioNet_reproduction](Pretraining/DepAudioNet_reproduction)  
+Pretraining pipeline without speaker disentanglement. Currently, time-masking/frequency-masking/Specaug/vtlp/pitch-perturbation/noise-perturbation/volume-perturbation are supported.
+
+### [Pretraining/DepAudioNet_reproduction_dise](Pretraining/DepAudioNet_reproduction_disentangle)  
+Pretraining pipeline with speaker disentanglement. Supported Augmentation techniques are the same as above.
