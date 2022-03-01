@@ -27,5 +27,5 @@ Baseline and Experiments with resumed pretrained model can be run under this rep
 ### [Pretraining/DepAudioNet_reproduction](Pretraining/DepAudioNet_reproduction)  
 Pretraining pipeline without speaker disentanglement. Currently, time-masking/frequency-masking/Specaug/vtlp/pitch-perturbation/noise-perturbation/volume-perturbation are supported.
 
-### [Pretraining/DepAudioNet_reproduction_dise](Pretraining/DepAudioNet_reproduction_dise)  
+### [Pretraining/DepAudioNet_reproduction_dise](Pretraining/DepAudioNet_reproduction_disentangle)  
 Pretraining pipeline with speaker disentanglement. Supported Augmentation techniques are the same as above.
