@@ -29,3 +29,9 @@ Pretraining pipeline without speaker disentanglement. Currently, time-masking/fr
 
 ### [Pretraining/DepAudioNet_reproduction_dise](Pretraining/DepAudioNet_reproduction_disentangle)  
 Pretraining pipeline with speaker disentanglement. Supported Augmentation techniques are the same as above.
+
+### [SPK](SPK)
+Speaker related experiment directory
+
+### [librispeech preparation](librispeech_prepration_scripts)
+Librispeech preparation scripts for pretraining usecase.
