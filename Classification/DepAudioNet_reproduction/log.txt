@@ -1,0 +1,3 @@
+feature_dir: /home/../../data/jinhan/Dataset/daic-woz-old/audio_feats/feats_DepAudioNet/mel_snv_exp
+feature_dir: /home/../../data/jinhan/Dataset/daic-woz-old/audio_feats/feats_DepAudioNet/mel_snv_exp
+feature_dir: /home/../../data/jinhan/Dataset/daic-woz-old/audio_feats/feats_DepAudioNet/mel_snv_exp
